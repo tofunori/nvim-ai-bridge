@@ -1,8 +1,17 @@
-# nvim-ai-bridge
+<div align="center">
 
-Share your Neovim visual selection with AI coding assistants — automatically.
+<h1>nvim · ai · bridge</h1>
 
-Supports **Claude Code** (fully automatic via hook) and **OpenCode** (via shell wrapper).
+<p>Share your Neovim visual selection with AI coding assistants — automatically.</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Neovim-%3E%3D%200.8-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim >= 0.8">
+  <img src="https://img.shields.io/badge/Claude_Code-supported-CC785C?style=flat-square" alt="Claude Code">
+  <img src="https://img.shields.io/badge/OpenCode-supported-5C7ACC?style=flat-square" alt="OpenCode">
+  <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="MIT License">
+</p>
+
+</div>
 
 ---
 
